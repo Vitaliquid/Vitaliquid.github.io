@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <font face="Courier" size="4px" color="#000000"> <title>Choco Boom - Pedido</title>
+        <title>Choco Boom - sabor y diversión </title>
+</head>
+<body>
+    <center><a href="./Inicio.html"><img src="./assets/img/marca/logo_chocoboom.jpeg" alt="Choco Boom" width="200px" style="text-align:center"></a>
+    <form>
+    <br>
+    <h1>¿Cuántos vas a querer?</h1>
+    <center><img src="./assets/img/productos/paquete_gif.gif" alt="Pídelos ya" width="400px" style="text-align:center"><br>    
+    <label for="Precios">Precios</label>
+    <select id="Precios" name="Precios">
+        <option value="Antojo">Cupcake antojo (1 pieza).............................$40.00</option>
+        <option value="Trio">Cupcake trío (3 piezas)..............................$110.00</option>
+        <option value="Mix">Cupcake mix (6 piezas)..............................$200.00</option>
+        <option value="Party">Cupcake party (12 piezas)..........................$380.00</option>
+    </select>
+    <br><br><br>
+
+    <h2>Selecciona el sabor de tu cupcake</h2>
+    <br>
+    <img src="./assets/img/productos/Plain_todos.gif" alt="pruebalos todos" width="400px" style="text-align:center"></center>
+    <br>
+    <label for="Cupcake">Base sabor</label>
+    <select id="Cupcake" name="Cupcake">
+        <option value="vainilla">Vainilla</option>
+        <option value="chocolate">Chocolate</option>
+        <option value="redVelvet">RedVelvet</option>
+        <option value="cafe">Café</option>
+        <option value="coco">Sabor del mes</option>
+    </select>
+    <br><br>
+    <hr>
+    <br>
+
+    <br>
+
+    <center><img src="./assets/img/productos/Buttercream_todos.gif" alt="pruebalos todos" width="400px" style="text-align:center"></center>
+
+    <input type="radio" id="vainilla" name="salsas" value="Vainilla">
+    <label for="vainilla">Vainilla</label><br>
+    <input type="radio" id="chocolate" name="salsas" value="Chocolate">
+    <label for="chocolate">Chocolate</label><br>
+    <input type="radio" id="frutosrojos" name="salsas" value="FrutosRojos">
+    <label for="frutosrojos">FrutosRojos</label><br>
+    <input type="radio" id="sabordelmes" name="salsas" value="SaborDelMes">
+    <label for="sabordelmes">SaborDelMes</label><br><br>
+
+
+
+    <center><h4>Selecciona la decoración de tu cupcake</h4></center>
+    <br>
+    <br>
+    <center><img src="./assets/img/productos/chocoboom_terminado.gif" alt="pruebalos todos" width="200px" style="text-align:center"></center>
+    <br>
+    <br>
+    
+    <input type="checkbox" id="topping1" name="topping1" value="Chispitas">
+    <label for="topping1">Chispitas de colores.</label><br>
+    <input type="checkbox" id="topping2" name="topping2" value="Drizzle">
+    <label for="topping2">Un baño de chocolate líquido.</label><br>
+    <input type="checkbox" id="topping3" name="topping3" value="Fruta">
+    <label for="topping3">Fruta de temporada, moras, fresas, durazno, kiwi.</label><br><br>
+    <br>
+    <hr>
+
+    <h2>Datos de contacto</h2>
+        <form action="/accion.js" id="form1" method="post">
+        <label for="nombre"   >Nombre:.....</label>
+        <input type="text" id="nombre" name="nombre" placeholder="Tu nombre"><br><br>
+        <label for="apellido" >Apellido:...</label>
+        <input type="text" id="apellido" name="apellido" placeholder="Tu apellido"><br><br>
+        <label for="correo1">e-mail:.....</label>
+        <input type="email" id="correo1" name="correo1" placeholder="Tu correo"><br><br>
+        <a href="./pedido_enviado_gracias.html"><input type="button" value="Enviar" size="200px"></a>
+        <input type="reset">
+    </form>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <hr>
+    <center><p>Contacto: Tel 55-5555-5555 / correo: choclmon2021@gmail.com / dirección: calle falsa 123 avenida siempre viva springfield  ABIERTO 24 horas</p></center>
+
+
+    
+
+  
+</body>
+</html>
