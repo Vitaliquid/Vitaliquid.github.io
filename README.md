@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Vitaliquid - Be like water
 
 You can use the [editor on GitHub](https://github.com/Vitaliquid/Vitaliquid.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
