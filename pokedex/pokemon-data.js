@@ -15,9 +15,7 @@ const getPokemonData = async term => {
     if(response.status == 404 || response.statusText == 'Not Found'){
         document.getElementById('show_error').classList.add('show')
         document.getElementById('show_error').classList.remove('hidden')
-    if(response.status != "200") {console.log(res);
-        src("./assets/missingno.png");
-        }
+    
         return
     }
 
