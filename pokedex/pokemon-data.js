@@ -41,3 +41,10 @@ const getPokemonData = async term => {
 
 
 search_btn.addEventListener('click', () => getPokemonData(search_term.value))
+
+input.addEventListener("keyup", function(event) {
+    if (event.keyCode === 13) {
+      event.preventDefault();
+      document.getElementById('search-btn').click();
+    }
+})
