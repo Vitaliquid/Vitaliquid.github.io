@@ -23,7 +23,7 @@ const getPokemonData = async term => {
     debugger
 
     // update ui with data 
-    document.getElementById('update_img').setAttribute('src', pokemon.sprites.other.dream_world.front_default)
+    document.getElementById('update_img').setAttribute('src', pokemon.sprites.front_default)
     document.getElementById('update_name').innerHTML = pokemon.name
     document.getElementById('update_candy_title').innerHTML = `${pokemon.name} Candy`
     document.getElementById('update_hp').innerHTML = `HP ${Math.floor((Math.random() * pokemon.stats[0].base_stat) + 1)}/${pokemon.stats[0].base_stat}`
