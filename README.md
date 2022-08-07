@@ -18,3 +18,5 @@ Welcome to my github profile.
  
 [Vaccines](https://vitaliquid.github.io/Vacunacion/) - Template project for vaccination campaign.
 
+Follow my social media too. Always learning and always creating.
+
