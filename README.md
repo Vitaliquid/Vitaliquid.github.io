@@ -9,7 +9,7 @@ Welcome to my github profile.
 - 📫 How to reach me, hit me up here.
 
 ![microsoft-certified-azure-fundamentals (1)](https://user-images.githubusercontent.com/97406127/181679626-f6e7cce4-146d-4d87-94e2-8b0e5c7821f9.png)
-<a href="https://www.freepnglogos.com/pics/javascript" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/javascript-png/fix-html-css-javascript-for-website-logo-6.png" width="200" alt="fix html css javascript for website logo" /></a>
+<a href="https://www.freepnglogos.com/pics/javascript"><img src="https://www.freepnglogos.com/uploads/javascript-png/fix-html-css-javascript-for-website-logo-6.png" width="200" /></a>
 
 [ChocoBoom](https://vitaliquid.github.io/ChocoBoom) - Delicious treats with original ingredients.
 
