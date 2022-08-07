@@ -10,7 +10,7 @@ Welcome to my github profile.
 
 ![microsoft-certified-azure-fundamentals (1)](https://user-images.githubusercontent.com/97406127/181679626-f6e7cce4-146d-4d87-94e2-8b0e5c7821f9.png)
 <a title="W3C, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:HTML5_Badge.svg"><img width="90" alt="HTML5 Badge" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png"></a>
-<a title="Omed Habib, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Javascript-shield.png"><img width="90" alt="Javascript-shield" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png"></a>
+<a title="Omed Habib, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Javascript-shield.png"><img width="100" alt="Javascript-shield" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png"></a>
 
 [ChocoBoom](https://vitaliquid.github.io/ChocoBoom) - Delicious treats with original ingredients.
 
