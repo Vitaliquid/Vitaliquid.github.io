@@ -11,6 +11,7 @@ Welcome to my github profile.
 ![microsoft-certified-azure-fundamentals (1)](https://user-images.githubusercontent.com/97406127/181679626-f6e7cce4-146d-4d87-94e2-8b0e5c7821f9.png)
 <a href="https://www.freepnglogos.com/pics/javascript"><img src="https://www.freepnglogos.com/uploads/javascript-png/fix-html-css-javascript-for-website-logo-6.png" width="200" /></a>
 <img src="https://www.nicepng.com/png/detail/333-3336792_java-logo-programming-language-java-logo.png" width="45">
+<a title="www.python.org, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg"><img width="60" alt="Python-logo-notext" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/64px-Python-logo-notext.svg.png"></a>
 
 [ChocoBoom](https://vitaliquid.github.io/ChocoBoom) - Delicious treats with original ingredients.
 
