@@ -3,9 +3,11 @@
 
 [ChocoBoom](https://vitaliquid.github.io/ChocoBoom) - Delicious treats with original ingredients.
 
- (https://vitaliquid.github.io/pokedex) - Gotta catch'em all!
+[Pokémon](https://vitaliquid.github.io/pokedex) - Gotta catch'em all!
 
- (https://vitaliquid.github.io/vue) - Random user generator API on VUE
+[Random user generator](https://vitaliquid.github.io/vue) - Random user generator API on VUE
+ 
+[Vaccines](https://vitaliquid.github.io/Vacunacion/) - Template project for vaccination campaign.
 
 You can use the [editor on GitHub](https://github.com/Vitaliquid/Vitaliquid.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
